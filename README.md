@@ -28,8 +28,8 @@ git clone https://github.com/mohamednaser/mario-game-with-css-only.git
 
 ## Live Version
 
-Live version [here](https://google.com) [pending].
+Live version [here](https://mohamednaser.github.io/mario-game-with-css-only/)
 
-## Demo GIF
+## Demo
 
 ![Image of Yaktocat](./assets/demo.gif)
