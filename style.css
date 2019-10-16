@@ -31,7 +31,7 @@ body {
 
 .cloud-div2 {
   position: absolute;
-  right: 0px;
+  right: 0;
   animation: wind 100s infinite;
   width: 30vh;
 }
@@ -40,6 +40,7 @@ body {
   height: 30%;
   background: seagreen;
 }
+
 .road {
   height: 30%;
   background: dimgrey;
@@ -53,7 +54,7 @@ body {
   box-sizing: border-box;
   border: 5px dashed #fff;
   position: absolute;
-  height: 0px;
+  height: 0;
   width: 100%;
   top: 45%;
 }
@@ -77,8 +78,9 @@ body {
 
 @keyframes drive {
   from {
-    transform: translate(0vw);
+    transform: translate(0);
   }
+
   to {
     transform: translateX(110vw);
   }
@@ -86,8 +88,9 @@ body {
 
 @keyframes wind {
   from {
-    transform: translateX(0vw);
+    transform: translateX(0);
   }
+
   to {
     transform: translateX(-100vw);
   }
