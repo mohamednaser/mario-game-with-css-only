@@ -2,7 +2,7 @@
 
 # Mario Game
 
-a simple Demo for Useing CSS animation stuff (Tranforms , Keyforms , Transitions ).
+A simple Demo for Using CSS animation stuff (Transforms , Key-forms , Transitions ).
 
 ## Authors
 
